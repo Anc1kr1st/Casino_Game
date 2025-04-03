@@ -13,3 +13,7 @@ it doesn’t match, then the user will lose his/her money.
 
 ## Preview
 ### Interface: 
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/534a13fe-f01a-45bc-b384-2f280abf8296" />
+
+### Betting: 
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/6ebe3f26-2dfe-447c-aabb-c7edea4ad711" />
